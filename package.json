@@ -1,0 +1,24 @@
+{
+  "name": "webpack-dependencies-loader",
+  "version": "1.0.1",
+  "description": "A simple webpack plugin to load the project dependencies and optimize the final bundle ",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "publish": "git add . && git commit -am \"New commit\" && git push origin master && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thiago Galvani",
+    "email": "thiagopaiva99@gmail.com",
+    "homepage": "https://thiagopaiva99.github.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagopaiva99/webpack-dependencies-loader"
+  }
+}
