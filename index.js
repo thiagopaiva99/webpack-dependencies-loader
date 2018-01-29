@@ -2,7 +2,7 @@
 'use strict'
 
 const dependencies = () => {
-    const object = require('./package.json').dependencies
+    const object = require('../../package.json').dependencies
 
     const keyValue = Object.keys(object)
 
