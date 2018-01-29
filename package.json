@@ -1,6 +1,6 @@
 {
   "name": "webpack-dependencies-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple webpack plugin to load the project dependencies and optimize the final bundle ",
   "main": "index.js",
   "engines": {
